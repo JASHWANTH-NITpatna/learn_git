@@ -22,3 +22,4 @@ if play == "yes":
 else:
     print(name+" We ar  e not gonna play ...")
 print("!END!")
+print("END")
